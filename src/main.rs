@@ -33,7 +33,7 @@ fn main() {
 
     blockchain
         .update_with_block(genesis_block)
-        .expect("Failed to add genesis block");
+        .expect("Failed to add genesis block ");
 
     let mut block = Block::new(
         1,
