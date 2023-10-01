@@ -8,3 +8,4 @@ Next steps:
 
 * Add dynamic transactions
 * Make a network of miners
+
